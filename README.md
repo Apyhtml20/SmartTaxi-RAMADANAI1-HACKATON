@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SmartTaxi - README</title>
-  <style>
-    body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;margin:0;background:#0b1220;color:#e8eefc}
-    .wrap{max-width:980px;margin:0 auto;padding:28px}
-    .card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:16px;padding:22px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
-    h1,h2,h3{margin:0 0 10px}
-    h1{font-size:34px}
-    h2{font-size:22px;margin-top:22px}
-    h3{font-size:18px;margin-top:16px}
-    p{margin:10px 0}
-    ul{margin:8px 0 8px 18px}
-    code, pre{background:rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.12);border-radius:10px}
-    code{padding:2px 6px}
-    pre{padding:14px;overflow:auto}
-    .tag{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(99,102,241,.18);border:1px solid rgba(99,102,241,.35);margin:4px 6px 0 0}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px;margin-top:12px}
-    .mini{padding:14px;border-radius:14px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.10)}
-    a{color:#93c5fd;text-decoration:none}
-    a:hover{text-decoration:underline}
-    hr{border:none;border-top:1px solid rgba(255,255,255,.12);margin:18px 0}
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <div class="card">
-      <h1>🚕 SmartTaxi – AI Smart Traffic & Taxi Optimization Platform</h1>
-      <p>
-        <strong>SmartTaxi</strong> est une plateforme intelligente de gestion et d’optimisation des taxis utilisant l’IA pour :
-        réduire le temps d’attente, minimiser les trajets à vide, optimiser le trafic urbain et diminuer les émissions de CO₂.
-      </p>
+
 
       <div>
         <span class="tag">React + Vite</span>
